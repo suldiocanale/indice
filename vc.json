@@ -1,6 +1,7 @@
 {
   "name": "vecchiochan",
   "url": "www.vecchiochan.com",
+  "thumb_path_prefix": "external",
   "boards": [
     {
       "board": "b",
