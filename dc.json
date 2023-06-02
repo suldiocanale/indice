@@ -5,7 +5,9 @@
     {
       "board": "b",
       "title": "random"
-    }
+    }, {
+      "board": :"p",
+      "title": "Prova"
   ],
   "emails" : [
     "salvia"
