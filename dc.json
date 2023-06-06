@@ -4,10 +4,14 @@
   "boards": [
     {
       "board": "b",
-      "title": "random"
+      "title": "random",
+      "forced_anon": true
     }, {
       "board": "p",
       "title": "Prova"
+    }, {
+      "board": "hd",
+      "title": "Help Desk"
     }
   ],
   "emails" : [
