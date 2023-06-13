@@ -5,13 +5,16 @@
     {
       "board": "b",
       "title": "random",
+      "pages": 10,
       "forced_anon": true
     }, {
       "board": "p",
       "title": "Prova"
+      "pages": 3
     }, {
       "board": "hd",
-      "title": "Help Desk"
+      "title": "Help Desk",
+      "pages": 10
     }
   ],
   "emails" : [
